@@ -12,3 +12,5 @@ Things covered in this class:
 * Kubernetes (maybe if time)
 
 * [SQLiteBrowser](https://sqlitebrowser.org/) - SQLiteBrowser GUI for SQLite
+
+* [Awesome-Django](https://github.com/wsvincent/awesome-django) - Comprehrensive list of useful packages for Django
