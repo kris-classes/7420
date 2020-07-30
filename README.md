@@ -10,3 +10,5 @@ Things covered in this class:
 * redis
 * PostgreSQL
 * Kubernetes (maybe if time)
+
+* [SQLiteBrowser](https://sqlitebrowser.org/) - SQLiteBrowser GUI for SQLite
